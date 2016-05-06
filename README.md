@@ -2,7 +2,7 @@
 Need to test github upsource integration
 
 just some unimportant text.
-... and this is more
+... and this is fantastic
 
-Improved description here.
+Improved description even more here, to reach new frontiers.
 
